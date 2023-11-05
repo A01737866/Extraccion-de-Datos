@@ -1,0 +1,240 @@
+,region,population,code2
+0,Caribbean,103000,AW
+1,Southern and Central Asia,22720000,AF
+2,Central Africa,12878000,AO
+3,Caribbean,8000,AI
+4,Southern Europe,3401200,AL
+5,Southern Europe,78000,AD
+6,Caribbean,217000,AN
+7,Middle East,2441000,AE
+8,South America,37032000,AR
+9,Middle East,3520000,AM
+10,Polynesia,68000,AS
+11,Antarctica,0,AQ
+12,Antarctica,0,TF
+13,Caribbean,68000,AG
+14,Australia and New Zealand,18886000,Au
+15,Western Europe,8091800,AT
+16,Middle East,7734000,AZ
+17,Eastern Africa,6695000,BI
+18,Western Europe,10239000,BE
+19,Western Africa,6097000,BJ
+20,Western Africa,11937000,BF
+21,Southern and Central Asia,129155000,BD
+22,Eastern Europe,8190900,BG
+23,Middle East,617000,BH
+24,Caribbean,307000,BS
+25,Southern Europe,3972000,BA
+26,Eastern Europe,10236000,BY
+27,Central America,241000,BZ
+28,North America,65000,BM
+29,South America,8329000,BO
+30,South America,170115000,BR
+31,Caribbean,270000,BB
+32,Southeast Asia,328000,BN
+33,Southern and Central Asia,2124000,BT
+34,Antarctica,0,BV
+35,Southern Africa,1622000,BW
+36,Central Africa,3615000,CF
+37,North America,31147000,CA
+38,Australia and New Zealand,600,CC
+39,Western Europe,7160400,CH
+40,South America,15211000,CL
+41,Eastern Asia,1277558000,CN
+42,Western Africa,14786000,CI
+43,Central Africa,15085000,CM
+44,Central Africa,51654000,CD
+45,Central Africa,2943000,CG
+46,Polynesia,20000,CK
+47,South America,42321000,CO
+48,Eastern Africa,578000,KM
+49,Western Africa,428000,CV
+50,Central America,4023000,CR
+51,Caribbean,11201000,Cu
+52,Australia and New Zealand,2500,CX
+53,Caribbean,38000,KY
+54,Middle East,754700,CY
+55,Eastern Europe,10278100,CZ
+56,Western Europe,82164700,DE
+57,Eastern Africa,638000,DJ
+58,Caribbean,71000,DM
+59,Nordic Countries,5330000,DK
+60,Caribbean,8495000,DO
+61,Northern Africa,31471000,DZ
+62,South America,12646000,EC
+63,Northern Africa,68470000,EG
+64,Eastern Africa,3850000,ER
+65,Northern Africa,293000,EH
+66,Southern Europe,39441700,ES
+67,Baltic Countries,1439200,EE
+68,Eastern Africa,62565000,ET
+69,Nordic Countries,5171300,FI
+70,Melanesia,817000,FJ
+71,South America,2000,FK
+72,Western Europe,59225700,FR
+73,Nordic Countries,43000,FO
+74,Micronesia,119000,FM
+75,Central Africa,1226000,GA
+76,British Islands,59623400,GB
+77,Middle East,4968000,GE
+78,Western Africa,20212000,GH
+79,Southern Europe,25000,GI
+80,Western Africa,7430000,GN
+81,Caribbean,456000,GP
+82,Western Africa,1305000,GM
+83,Western Africa,1213000,GW
+84,Central Africa,453000,GQ
+85,Southern Europe,10545700,GR
+86,Caribbean,94000,GD
+87,North America,56000,GL
+88,Central America,11385000,GT
+89,South America,181000,GF
+90,Micronesia,168000,Gu
+91,South America,861000,GY
+92,Eastern Asia,6782000,HK
+93,Antarctica,0,HM
+94,Central America,6485000,HN
+95,Southern Europe,4473000,HR
+96,Caribbean,8222000,HT
+97,Eastern Europe,10043200,Hu
+98,Southeast Asia,212107000,ID
+99,Southern and Central Asia,1013662000,IN
+100,Eastern Africa,0,IO
+101,British Islands,3775100,IE
+102,Southern and Central Asia,67702000,IR
+103,Middle East,23115000,IQ
+104,Nordic Countries,279000,IS
+105,Middle East,6217000,IL
+106,Southern Europe,57680000,IT
+107,Caribbean,2583000,JM
+108,Middle East,5083000,JO
+109,Eastern Asia,126714000,JP
+110,Southern and Central Asia,16223000,KZ
+111,Eastern Africa,30080000,KE
+112,Southern and Central Asia,4699000,KG
+113,Southeast Asia,11168000,KH
+114,Micronesia,83000,KI
+115,Caribbean,38000,KN
+116,Eastern Asia,46844000,KR
+117,Middle East,1972000,KW
+118,Southeast Asia,5433000,LA
+119,Middle East,3282000,LB
+120,Western Africa,3154000,LR
+121,Northern Africa,5605000,LY
+122,Caribbean,154000,LC
+123,Western Europe,32300,LI
+124,Southern and Central Asia,18827000,LK
+125,Southern Africa,2153000,LS
+126,Baltic Countries,3698500,LT
+127,Western Europe,435700,Lu
+128,Baltic Countries,2424200,LV
+129,Eastern Asia,473000,MO
+130,Northern Africa,28351000,MA
+131,Western Europe,34000,MC
+132,Eastern Europe,4380000,MD
+133,Eastern Africa,15942000,MG
+134,Southern and Central Asia,286000,MV
+135,Central America,98881000,MX
+136,Micronesia,64000,MH
+137,Southern Europe,2024000,MK
+138,Western Africa,11234000,ML
+139,Southern Europe,380200,MT
+140,Southeast Asia,45611000,MM
+141,Eastern Asia,2662000,MN
+142,Micronesia,78000,MP
+143,Eastern Africa,19680000,MZ
+144,Western Africa,2670000,MR
+145,Caribbean,11000,MS
+146,Caribbean,395000,MQ
+147,Eastern Africa,1158000,Mu
+148,Eastern Africa,10925000,MW
+149,Southeast Asia,22244000,MY
+150,Eastern Africa,149000,YT
+151,Southern Africa,1726000,
+152,Melanesia,214000,NC
+153,Western Africa,10730000,NE
+154,Australia and New Zealand,2000,NF
+155,Western Africa,111506000,NG
+156,Central America,5074000,NI
+157,Polynesia,2000,Nu
+158,Western Europe,15864000,NL
+159,Nordic Countries,4478500,NO
+160,Southern and Central Asia,23930000,NP
+161,Micronesia,12000,NR
+162,Australia and New Zealand,3862000,NZ
+163,Middle East,2542000,OM
+164,Southern and Central Asia,156483000,PK
+165,Central America,2856000,PA
+166,Polynesia,50,PN
+167,South America,25662000,PE
+168,Southeast Asia,75967000,PH
+169,Micronesia,19000,PW
+170,Melanesia,4807000,PG
+171,Eastern Europe,38653600,PL
+172,Caribbean,3869000,PR
+173,Eastern Asia,24039000,KP
+174,Southern Europe,9997600,PT
+175,South America,5496000,PY
+176,Middle East,3101000,PS
+177,Polynesia,235000,PF
+178,Middle East,599000,QA
+179,Eastern Africa,699000,RE
+180,Eastern Europe,22455500,RO
+181,Eastern Europe,146934000,Ru
+182,Eastern Africa,7733000,RW
+183,Middle East,21607000,SA
+184,Northern Africa,29490000,SD
+185,Western Africa,9481000,SN
+186,Southeast Asia,3567000,SG
+187,Antarctica,0,GS
+188,Western Africa,6000,SH
+189,Nordic Countries,3200,SJ
+190,Melanesia,444000,SB
+191,Western Africa,4854000,SL
+192,Central America,6276000,SV
+193,Southern Europe,27000,SM
+194,Eastern Africa,10097000,SO
+195,North America,7000,PM
+196,Central Africa,147000,ST
+197,South America,417000,SR
+198,Eastern Europe,5398700,SK
+199,Southern Europe,1987800,SI
+200,Nordic Countries,8861400,SE
+201,Southern Africa,1008000,SZ
+202,Eastern Africa,77000,SC
+203,Middle East,16125000,SY
+204,Caribbean,17000,TC
+205,Central Africa,7651000,TD
+206,Western Africa,4629000,TG
+207,Southeast Asia,61399000,TH
+208,Southern and Central Asia,6188000,TJ
+209,Polynesia,2000,TK
+210,Southern and Central Asia,4459000,TM
+211,Southeast Asia,885000,TP
+212,Polynesia,99000,TO
+213,Caribbean,1295000,TT
+214,Northern Africa,9586000,TN
+215,Middle East,66591000,TR
+216,Polynesia,12000,TV
+217,Eastern Asia,22256000,TW
+218,Eastern Africa,33517000,TZ
+219,Eastern Africa,21778000,uG
+220,Eastern Europe,50456000,uA
+221,Micronesia/Caribbean,0,uM
+222,South America,3337000,uY
+223,North America,278357000,uS
+224,Southern and Central Asia,24318000,uZ
+225,Southern Europe,1000,VA
+226,Caribbean,114000,VC
+227,South America,24170000,VE
+228,Caribbean,21000,VG
+229,Caribbean,93000,VI
+230,Southeast Asia,79832000,VN
+231,Melanesia,190000,Vu
+232,Polynesia,15000,WF
+233,Polynesia,180000,WS
+234,Middle East,18112000,YE
+235,Southern Europe,10640000,Yu
+236,Southern Africa,40377000,ZA
+237,Eastern Africa,9169000,ZM
+238,Eastern Africa,11669000,ZW
